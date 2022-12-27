@@ -1,0 +1,11 @@
+.vercel
+
+node_modules
+
+bundler
+
+dist
+
+.DS_Store
+
+.npm
